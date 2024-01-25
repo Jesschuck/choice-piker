@@ -4,7 +4,7 @@
 
 - Você escreve quantas opções quiser e ele escolhe uma delas para você.
 
-
+![Alt text](image.png).
 
 ## Linguagens usadas:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-668?style=for-the-badge&logo=javascript&logoColor=f7df1e).
