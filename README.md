@@ -4,6 +4,7 @@
 
 - Você escreve quantas opções quiser e ele escolhe aleatoriamente entre uma delas para você.
 
+![Alt text](image-1.png)
 ![Alt text](image.png)
 
 ## Linguagens usadas:
