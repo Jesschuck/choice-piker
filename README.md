@@ -2,7 +2,7 @@
 
 **Ele decide para você**
 
-- Você escreve quantas opções quiser e ele escolhe uma delas para você.
+- Você escreve quantas opções quiser e ele escolhe aleatoriamente entre uma delas para você.
 
 ![Alt text](image.png).
 
