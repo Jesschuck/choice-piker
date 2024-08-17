@@ -1,6 +1,7 @@
 # Projeto Choice Piker
 
 **Ele decide para você**
+https://jesschuck.github.io/choice-piker/
 
 # Resumo do projeto
 
